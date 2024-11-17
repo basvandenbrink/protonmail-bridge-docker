@@ -1,5 +1,4 @@
 FROM ubuntu:jammy
-LABEL maintainer="Xiaonan Shen <s@sxn.dev>"
 
 EXPOSE 25/tcp
 EXPOSE 143/tcp
